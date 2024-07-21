@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">OpeninApp</string>
+    <string name="setting_button">SettingsButton</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="rajveer_singh">Rajveer Singh</string>
+    <string name="overview">Overview</string>
+    <string name="_22_aug_23_sept">22 Aug - 23 Sept</string>
+    <string name="clock">clock</string>
+    <string name="click">click</string>
+    <string name="today_s_clicks">Today\'s clicks</string>
+    <string name="top_location">Top location</string>
+    <string name="top_source">Top source</string>
+    <string name="total_clicks">Total Clicks</string>
+    <string name="extra_income">Extra income</string>
+    <string name="total_links">Total links</string>
+    <string name="view_analytics">View Analytics</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_links">Top Links</string>
+    <string name="search">search</string>
+    <string name="recent_links">Recent Links</string>
+    <string name="amazon">amazon</string>
+    <string name="clicks">Clicks</string>
+    <string name="copy">copy</string>
+    <string name="view_all_links">View all links</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="talk_with_us">Talk with us</string>
+    <string name="questions">Questions</string>
+    <string name="frequently_asked_questions">Frequently Asked Questions</string>
+    <string name="courses">Courses</string>
+    <string name="campaigns">Campaigns</string>
+    <string name="profile">Profile</string>
+    <string name="links">Links</string>
+    <string name="plus">Plus</string>
+</resources>
